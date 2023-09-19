@@ -1,0 +1,37 @@
+[
+  {
+    "company_name": "Ideogram",
+    "total_funding_amount": "CA$22.3M",
+    "cb_rank_organization": "1,255",
+    "trend_score_30_days": "10",
+    "company_url": "https://www.crunchbase.com//organization/ideogram"
+  },
+  {
+    "company_name": "LemFi",
+    "total_funding_amount": "$33.9M",
+    "cb_rank_organization": "171",
+    "trend_score_30_days": "9.9",
+    "company_url": "https://www.crunchbase.com//organization/lemonade-finance"
+  },
+  {
+    "company_name": "Andorix",
+    "total_funding_amount": "CA$50.3M",
+    "cb_rank_organization": "1,703",
+    "trend_score_30_days": "9.9",
+    "company_url": "https://www.crunchbase.com//organization/andorix"
+  },
+  {
+    "company_name": "Clay Financial",
+    "total_funding_amount": "CA$1.7M",
+    "cb_rank_organization": "32,345",
+    "trend_score_30_days": "9.9",
+    "company_url": "https://www.crunchbase.com//organization/clay-financial"
+  },
+  {
+    "company_name": "B\u0026G Industrial Services",
+    "total_funding_amount": "$1.4M",
+    "cb_rank_organization": "64,633",
+    "trend_score_30_days": "9.8",
+    "company_url": "https://www.crunchbase.com//organization/b-g-industrial-services"
+  }
+]

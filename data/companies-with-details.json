@@ -1,0 +1,62 @@
+[
+  {
+    "company_name": "Ideogram",
+    "total_funding_amount": "CA$22.3M",
+    "cb_rank_organization": "1,255",
+    "trend_score_30_days": "10",
+    "company_url": "https://www.crunchbase.com//organization/ideogram",
+    "description": "Ideogram is an artificial intelligence startup that provides generative text-to-image technology.",
+    "number_of_employees": "1-10",
+    "last_funding_type": "Seed",
+    "website_url": "https://ideogram.ai",
+    "rank": "1,249"
+  },
+  {
+    "company_name": "LemFi",
+    "total_funding_amount": "$33.9M",
+    "cb_rank_organization": "171",
+    "trend_score_30_days": "9.9",
+    "company_url": "https://www.crunchbase.com//organization/lemonade-finance",
+    "description": "LemFi provides users with accounts in their country of residence and of origin for personal and business banking needs.",
+    "number_of_employees": "11-50",
+    "last_funding_type": "Series A",
+    "website_url": "https://www.lemfi.com",
+    "rank": "170"
+  },
+  {
+    "company_name": "Andorix",
+    "total_funding_amount": "CA$50.3M",
+    "cb_rank_organization": "1,703",
+    "trend_score_30_days": "9.9",
+    "company_url": "https://www.crunchbase.com//organization/andorix",
+    "description": "Digital Infrastructure Services for IoT, Industrial IoT, Smart Building Automation, and 5G",
+    "number_of_employees": "11-50",
+    "last_funding_type": "Venture - Series Unknown",
+    "website_url": "https://www.andorix.com",
+    "rank": "1,696"
+  },
+  {
+    "company_name": "Clay Financial",
+    "total_funding_amount": "CA$1.7M",
+    "cb_rank_organization": "32,345",
+    "trend_score_30_days": "9.9",
+    "company_url": "https://www.crunchbase.com//organization/clay-financial",
+    "description": "Helping Canadians tap into their home equity without debt",
+    "number_of_employees": "1-10",
+    "last_funding_type": "Pre-Seed",
+    "website_url": "https://clay.financial",
+    "rank": "32,182"
+  },
+  {
+    "company_name": "B\u0026G Industrial Services",
+    "total_funding_amount": "$1.4M",
+    "cb_rank_organization": "64,633",
+    "trend_score_30_days": "9.8",
+    "company_url": "https://www.crunchbase.com//organization/b-g-industrial-services",
+    "description": "B\u0026G Industrial Services include custom fabrication, millwright and maintenance, and material sales.",
+    "number_of_employees": "11-50",
+    "last_funding_type": "Grant",
+    "website_url": "https://www.bandgindustrialservices.ca",
+    "rank": "64,150"
+  }
+]
