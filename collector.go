@@ -20,6 +20,7 @@ func setupCollector() *colly.Collector {
 func scrapeMainPage() []Company {
 	var companies []Company
 	mainCollector := setupCollector()
+
 	queryTable(mainCollector, &companies)
 
 	q, _ := queue.New(2, &queue.InMemoryQueueStorage{MaxSize: 10000})
@@ -27,7 +28,7 @@ func scrapeMainPage() []Company {
 	// Create a channel to sync
 	syncChannel := make(chan bool)
 
-	q.AddURL("https://www.crunchbase.com/hub/toronto-companies-fewer-than-1000-employees")
+	q.AddURL("https://www.crunchbase.com/hub/toronto-companies-fewer-than-1000-employees/hub_overview_default/top?tab=top_orgs")
 	go func() {
 		q.Run(mainCollector)
 		syncChannel <- true // Send a true value into the channel when scraping is complete
